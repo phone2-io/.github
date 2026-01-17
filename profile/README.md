@@ -1,6 +1,6 @@
 ## 👋 Welcome to Phone2 Inc.
 
-**Phone2 Inc.** is a modern cloud-based business phone platform that empowers teams to communicate more effectively using one shared business phone number — all without hardware. Our solution enables businesses to make and receive calls, send and receive texts, and manage communications from any device with internet access.  [oai_citation:1‡Phone2](https://www.phone2.io/?utm_source=github.com)
+**Phone2 Inc.** is a modern cloud-based business phone platform that empowers teams to communicate more effectively using one shared business phone number — all without hardware. Our solution enables businesses to make and receive calls, send and receive texts, and manage communications from any device with internet access. [Phone2](https://www.phone2.io/?utm_source=github.com)
 
 ---
 
@@ -16,7 +16,7 @@ Phone2 provides a powerful, flexible business phone system designed for teams of
 - 🛠 **Customize call routing, auto-attendants, and workflows**  
 - 🔗 **Integrate with tools like Slack, CRM systems, and APIs**  
 - 🚫 **Eliminate traditional hardware and phone bills**  
-- 📍 **Support business communication across devices and locations**  [oai_citation:2‡Phone2](https://www.phone2.io/)
+- 📍 **Support business communication across devices and locations** [Phone2](https://www.phone2.io/)
 
 ---
 
@@ -28,7 +28,7 @@ Phone2 solves real business communication challenges:
 - Shared context across calls and messages improves response quality  
 - Businesses can separate personal and business lines  
 - Easy setup with no contracts or per-minute fees  
-- Built for remote, hybrid, and distributed teams alike  [oai_citation:3‡Phone2](https://www.phone2.io/?utm_source=github.com)
+- Built for remote, hybrid, and distributed teams alike [Phone2](https://www.phone2.io/?utm_source=github.com)
 
 ---
 
